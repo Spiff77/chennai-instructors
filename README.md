@@ -14,7 +14,7 @@ In red, what is cancelled.
   - Welcome everyone then play [Nick's short video](https://neueda.conygre.com/WelcomeVideo.mp4)
   - Capstone project : [Slides](https://slides.tomdev.it/sprint-3-capstone-overview/#/1)
   - Connect to VM and explore the interface.
-  	- Connect to GIT neueda account !! ( **_*DO NOT CONNECT TO COPILOT in VSCODE as student are not allowed to use AI*_** ).
+  	- Connect to GIT neueda account !! ( **_*DO NOT CONNECT TO COPILOT in VSCODE as student are not allowed to use AI*_** ). [process on confluence](https://neueda-training.atlassian.net/wiki/spaces/neuedainst/pages/837550081/2026+-+GitHub+Copilot+Learner+Assignment+Guide)
   - Sprint 3 GO GO GO!
 
 
