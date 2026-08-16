@@ -1,17 +1,18 @@
 # Chennai playlist
 
 ## Today's Menu
-- We all start the training with **Sprint 3** and potentially the begining of **Sprint 4**
+- We all start the training with **Sprint 3** 
   - Please be sure to read the [instructor guide](https://neueda.sharepoint.com/:w:/r/sites/CourseMaterials/_layouts/15/Doc.aspx?sourcedoc=%7B4D0A26DC-1892-4F2B-8DDC-2307D9D0106D%7D&file=Sprint3-Instructor-Guide.docx&action=default&mobileredirect=true)
-- Here is a [ detailed breakdown of each sprint](https://drive.proton.me/urls/5S5HZ3T3FW#4ZNXZ8ff0mmx) (password is the same you are using all the time). There is also a resume [here](./resources/breakdown.md). Some elements have been removed / condensed. Its important you don't spend too much time (or even no time at all) on elements that are stroked. For instance many things on SQL have been removed (sprint 3). 
+. Some elements have been removed / condensed [detail](./resources/breakdown.md). Its important you don't spend too much time (or even no time at all) on elements that are stroked. For instance many things on SQL have been removed (sprint 3). 
   - **IMPORTANT**: They will still do the labs, whatever is the content (stroked or not). We just dont want to spend too much time on demo explaining things they know (what is a select for instance). They have learned all stroked topics previsouly but they need it for the capstone project so it worth to have them practicing with labs.
 
 ### First day - to be changed.
   - Welcome everyone then play [Nick's short video](https://neueda.conygre.com/WelcomeVideo.mp4)
-  - Presenting the program. Q&A.
-  - Connect to VM and explore the interface
+  - Capstone project : [Slides](https://slides.tomdev.it/sprint-3-capstone-overview/#/1)
+  - Connect to VM and explore the interface.
+  	- Connect to GIT neueda account !!( DO NOT CONNECT TO VSCODE AND COPILOT)  
   - Sprint 3!
-  - Before each lab that they already have worked on, it will be nice to do a small revision (just to avoid sending labs after labs, Maybe a little 5-10 questions wheelofnames before each labs). I have uploaded some on [here](https://slides.tomdev.it/) with the label cancelled
+  - Before each lab where topics have been cancelled, it will be nice to do a small revision (just to avoid sending labs after labs, Maybe a little 5-10 questions wheelofnames before each labs). I have uploaded some on [here](https://slides.tomdev.it/) with the label cancelled.
 
 In red, what is cancelled.
 ![sprint 3](./assets/sprint3.png)
@@ -22,4 +23,17 @@ In red, what is cancelled.
 
 ## Labs
 - https://github.com/Neueda-Technologies/leap-sprint3
-- https://github.com/Neueda-Technologies/leap-sprint4
+
+## Breaks 
+### Lunch
+12h15 - 13h15
+
+### Tea time
+Please put an alarm.
+#### Morning :-
+- SE1, SE2, SE3 - 10.30 - 10.45
+- SE4, SE5, SE6 - 10.50 - 11.05
+
+#### Afternoon :-
+- SE1, SE2, SE3 - 15.00 - 15.15
+- SE4, SE5, SE6 - 15.20 - 15.35
