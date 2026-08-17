@@ -5,7 +5,10 @@
 - From feedbacks we will ask you to do some little adjustements for those who are not doing the following:
   - Some rooms have been reading too much the slides. Don't, try to make it interactive, asking them questions etc.
   - Dont stay static! Once you run a lab, go from a table to another one, to a trainee to another one and try to have interaction with everyone asking if all is good, if there are any questions etc.
+
 - Get the temperature at the begining of all days. Do they know the topic etc?
+- Anything related to AI, just skip or find an alternative, slides are designed for all location but until now they are not allowed to use AI.
+
 
 In red, what is cancelled. it do not represent the real schedule. use the tracking one to see modules that you are teaching.
 ![sprint 3](./assets/sprint3.png)
