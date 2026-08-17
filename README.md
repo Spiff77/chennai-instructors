@@ -10,6 +10,9 @@
 In red, what is cancelled.
 ![sprint 3](./assets/sprint3.png)
 
+### UPDATE for this afternoon
+  - As we are going faster than expected. once you are done you need to ask them to import [./resources/project.sql](./resources/project.sql). They need with psql commands to analyse the tables and create a few set of queries so they can present what the project is doing
+
 ### Planning
   - Welcome everyone then play [Nick's short video](https://neueda.conygre.com/WelcomeVideo.mp4)
   - Capstone project : [Slides](https://slides.tomdev.it/sprint-3-capstone-overview/#/1)
