@@ -15,11 +15,14 @@ In red, what is cancelled.
   - Capstone project : [Slides](https://slides.tomdev.it/sprint-3-capstone-overview/#/1)
   - Connect to VM and explore the interface.
   	- Connect to GIT neueda account !! ( **_*DO NOT CONNECT TO COPILOT in VSCODE as student are not allowed to use AI*_** ). [process on confluence](https://neueda-training.atlassian.net/wiki/spaces/neuedainst/pages/837550081/2026+-+GitHub+Copilot+Learner+Assignment+Guide)
-  - Sprint 3 GO GO GO!
+  - Sprint 3!
 
 
  - #### /!\ PLEASE TRACK YOUR PROGRESS [HERE](https://docs.proton.me/sheet?mode=open-url&token=FJBAMEYS4G&linkId=UZ-RuDTzzXJIdtGqhjykYShcbj_AliQs9CjUjDtQg9B3DIarDUP1CfG-5joGHt4xOBU_qt0Tc3mQTmbcdhBVTA%3D%3D#3QSZdtqKLPr2)
 
+
+- #### Detailed schedule.
+  - Please take this with caution, it really depends on trainees and teaching style it have been generated so please keep it as a hint more than a real thing: [schedule](./resources/planned-time.md)
 
 ## Links & resources
  - [Tracking your progress](https://docs.proton.me/sheet?mode=open-url&token=FJBAMEYS4G&linkId=UZ-RuDTzzXJIdtGqhjykYShcbj_AliQs9CjUjDtQg9B3DIarDUP1CfG-5joGHt4xOBU_qt0Tc3mQTmbcdhBVTA%3D%3D#3QSZdtqKLPr2): Before each session and once its done, update the tracking here and check others instructor progress.
