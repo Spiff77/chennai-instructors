@@ -1,37 +1,36 @@
 # Chennai playlist
 
-## Today's Menu
-- We all start the training with **Sprint 3** 
-  - Please be sure to read the [instructor guide](https://neueda.sharepoint.com/:w:/r/sites/CourseMaterials/_layouts/15/Doc.aspx?sourcedoc=%7B4D0A26DC-1892-4F2B-8DDC-2307D9D0106D%7D&file=Sprint3-Instructor-Guide.docx&action=default&mobileredirect=true)
-. Some elements have been removed / condensed. Its important you don't spend too much time (or even no time at all) on elements that are red on the schedule below. For instance many things on SQL have been removed (sprint 3). 
-  - **IMPORTANT**: They will still do the labs, whatever is the content (red or not). We just dont want to spend time on slides and demo explaining things they know (what is a select for instance). They have learned all red topics previsouly but they need it for the capstone project so it worth to have them practicing with labs.
-  - Before each lab where topics have been cancelled, it will be nice to do a small revision (just to avoid sending labs after labs, Maybe a little 5-10 questions wheelofnames before each labs). I have uploaded some on [here](https://slides.tomdev.it/) with the label cancelled. Your student list is on the confluence.
+## Today's Menu (Tuesday)
+- We are doing good! Good job and THANK YOU to everyone!
+- From feedbacks we will ask you to do some little adjustements for those who are not doing the following:
+  - Some rooms have been reading too much the slides. Don't, try to make it interactive, asking them questions etc.
+  - Dont stay static! Once you run a lab, go from a table to another one, to a trainee to another one and try to have interaction with everyone asking if all is good, if there are any questions etc.
+- Get the temperature at the begining of all days. Do they know the topic etc?
 
-In red, what is cancelled.
+In red, what is cancelled. it do not represent the real schedule. use the tracking one to see modules that you are teaching.
 ![sprint 3](./assets/sprint3.png)
 
-### UPDATE for this afternoon
-  - As we are going faster than expected. once you are done you need to ask them to import [./resources/project.sql](./resources/project.sql). They need with psql commands to analyse the tables and create a few set of queries so they can present what the project is doing
-
 ### Planning
-  - Welcome everyone then play [Nick's short video](https://neueda.conygre.com/WelcomeVideo.mp4)
-  - Capstone project : [Slides](https://slides.tomdev.it/sprint-3-capstone-overview/#/1)
-  - Connect to VM and explore the interface.
-  	- Connect to GIT neueda account !! ( **_*DO NOT CONNECT TO COPILOT in VSCODE as student are not allowed to use AI*_** ). [process on confluence](https://neueda-training.atlassian.net/wiki/spaces/neuedainst/pages/837550081/2026+-+GitHub+Copilot+Learner+Assignment+Guide)
-  - Sprint 3!
-
-
+ - 9 to 9:05. lets have a daily standup. 
+ - Talk about the progran of the day, interact with them!
+ - Then program continuation.
+ - Any time during the day, you can have a small activity if they are sleepy. Some are collected here: [here](http://slides.tomdev.it) - Activities tab
+ - Before morning break. [Easy Retro](https://neueda-training.atlassian.net/wiki/spaces/neuedainst/pages/920485891/Chennai+India) 
+ 
+ 
  - #### /!\ PLEASE TRACK YOUR PROGRESS [HERE](https://docs.proton.me/sheet?mode=open-url&token=FJBAMEYS4G&linkId=UZ-RuDTzzXJIdtGqhjykYShcbj_AliQs9CjUjDtQg9B3DIarDUP1CfG-5joGHt4xOBU_qt0Tc3mQTmbcdhBVTA%3D%3D#3QSZdtqKLPr2)
-
 
 - #### Detailed schedule.
   - Please take this with caution, it really depends on trainees and teaching style it have been generated so please keep it as a hint more than a real thing: [schedule](./resources/planned-time.md)
 
 ## Links & resources
  - [Tracking your progress](https://docs.proton.me/sheet?mode=open-url&token=FJBAMEYS4G&linkId=UZ-RuDTzzXJIdtGqhjykYShcbj_AliQs9CjUjDtQg9B3DIarDUP1CfG-5joGHt4xOBU_qt0Tc3mQTmbcdhBVTA%3D%3D#3QSZdtqKLPr2): Before each session and once its done, update the tracking here and check others instructor progress.
- -
+ 
  - [wheelofnames](https://wheelofnames.com/). Idealy we will run this a few time per week mostly to make them engaged and less sleepy. Small reward for each participants (candy, chocolate, whatever) Here are some [questions you can run](https://slides.tomdev.it/). I will update the quizz very soon but for now, you have an idea of the type of questions. Happy to get any suggestions! 
+
  - [Neueda quizz platform](https://quiztime.neueda.com/dashboard): There is a Chennai folder here with quizzes we will run probably once a week on the day before capstone project. For now the quizzes are the one from another session. Dont bother with content for now, I will update it according to our needs.
+
+- [instructor guide](https://neueda.sharepoint.com/:w:/r/sites/CourseMaterials/_layouts/15/Doc.aspx?sourcedoc=%7B4D0A26DC-1892-4F2B-8DDC-2307D9D0106D%7D&file=Sprint3-Instructor-Guide.docx&action=default&mobileredirect=true)
 
 ## Labs
 - https://github.com/Neueda-Technologies/leap-sprint3
