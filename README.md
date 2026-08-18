@@ -36,6 +36,21 @@ In red, what is cancelled. it do not represent the real schedule. use the tracki
 
 - [instructor guide](https://neueda.sharepoint.com/:w:/r/sites/CourseMaterials/_layouts/15/Doc.aspx?sourcedoc=%7B4D0A26DC-1892-4F2B-8DDC-2307D9D0106D%7D&file=Sprint3-Instructor-Guide.docx&action=default&mobileredirect=true)
 
+## Easy Retro boards
+Run before the morning break. Each room has its own board — project the QR code (or print it) so trainees can scan it straight from their phone.
+
+Reminder for the narrative: retros improve **our delivery**, they are not there to judge anyone. Ask them to write what could be better *and* what they enjoyed.
+
+| Room | QR code | Board link |
+| --- | --- | --- |
+| **SE1** | [qr-se1.png](./resources/easyretro-qr/qr-se1.png) | [Open board](https://easyretro.io/publicboard/NTDqkkm6utgJFD9cdBrdb4sI6n72/bbbf2a28-d714-42c7-893f-20a3410d5dc2) |
+| **SE2** | [qr-se2.png](./resources/easyretro-qr/qr-se2.png) | [Open board](https://easyretro.io/publicboard/NTDqkkm6utgJFD9cdBrdb4sI6n72/67a704f6-77a7-40ed-b597-755cabbd16a9) |
+| **SE3** | [qr-se3.png](./resources/easyretro-qr/qr-se3.png) | [Open board](https://easyretro.io/publicboard/NTDqkkm6utgJFD9cdBrdb4sI6n72/c82823ee-6601-48f2-9d7d-10da3b5d19f6) |
+| **SE4** | [qr-se4.png](./resources/easyretro-qr/qr-se4.png) | [Open board](https://easyretro.io/publicboard/NTDqkkm6utgJFD9cdBrdb4sI6n72/9a174e04-bbba-4fa2-8685-d07347e14b8c) |
+| **SE5** | [qr-se5.png](./resources/easyretro-qr/qr-se5.png) | [Open board](https://easyretro.io/publicboard/NTDqkkm6utgJFD9cdBrdb4sI6n72/fe76a897-5630-4c6a-a8a2-8352ecc2240b) |
+| **SE6** | [qr-se6.png](./resources/easyretro-qr/qr-se6.png) | [Open board](https://easyretro.io/publicboard/NTDqkkm6utgJFD9cdBrdb4sI6n72/d9b9b448-ef1f-48f2-8d50-fed9c6635d88) |
+
+
 ## Labs
 - https://github.com/Neueda-Technologies/leap-sprint3
 
