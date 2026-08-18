@@ -19,6 +19,7 @@ In red, what is cancelled. it do not represent the real schedule. use the tracki
  - Then program continuation.
  - Any time during the day, you can have a small activity if they are sleepy. Some are collected here: [here](http://slides.tomdev.it) - Activities tab
  - Before morning break. [Easy Retro](https://neueda-training.atlassian.net/wiki/spaces/neuedainst/pages/920485891/Chennai+India) 
+   - Keep in mind that easy retros are here to improve our delivery, not to judge anyone. Narrative with students is to ask them to write anything that can be improved but also anything they enjoy!
  
  
  - #### /!\ PLEASE TRACK YOUR PROGRESS [HERE](https://docs.proton.me/sheet?mode=open-url&token=FJBAMEYS4G&linkId=UZ-RuDTzzXJIdtGqhjykYShcbj_AliQs9CjUjDtQg9B3DIarDUP1CfG-5joGHt4xOBU_qt0Tc3mQTmbcdhBVTA%3D%3D#3QSZdtqKLPr2)
