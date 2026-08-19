@@ -1,7 +1,10 @@
 # Chennai playlist
 
-## Today's Menu (Tuesday)
-- We are doing good! Good job and THANK YOU to everyone!
+## Today's Menu (Wednesday)
+- Please confirm with everyone they have joined/accepted the Neueda github organisation
+- We need to make them join the jira. Slides are under the welcome section
+
+---
 - From feedbacks we will ask you to do some little adjustements for those who are not doing the following:
   - Some rooms have been reading too much the slides. Don't, try to make it interactive, asking them questions etc.
   - Dont stay static! Once you run a lab, go from a table to another one, to a trainee to another one and try to have interaction with everyone asking if all is good, if there are any questions etc.
@@ -9,18 +12,17 @@
 - Get the temperature at the begining of all days. Do they know the topic etc?
 - Anything related to AI, just skip or find an alternative, slides are designed for all location but until now they are not allowed to use AI.
 
-
 In red, what is cancelled. it do not represent the real schedule. use the tracking one to see modules that you are teaching.
 ![sprint 3](./assets/sprint3.png)
 
 ### Planning
  - 9 to 9:05. lets have a daily standup. 
- - Talk about the progran of the day, interact with them!
- - Then program continuation.
- - Any time during the day, you can have a small activity if they are sleepy. Some are collected here: [here](http://slides.tomdev.it) - Activities tab
- - Before morning break. [Easy Retro](https://neueda-training.atlassian.net/wiki/spaces/neuedainst/pages/920485891/Chennai+India) 
-   - Keep in mind that easy retros are here to improve our delivery, not to judge anyone. Narrative with students is to ask them to write anything that can be improved but also anything they enjoy!
- 
+ - Talk about the program of the day, interact with them!
+ - Double check they all have joined Git.
+ - Then make them joining Jira.
+ - We finish sprint 3!
+ - Any time during the day, you can have a small activity if they are sleepy. Some are collected here: [here](http://slides.tomdev.it) - Activities tab.
+ - Day for them is over at 4:30pm
  
  - #### /!\ PLEASE TRACK YOUR PROGRESS [HERE](https://docs.proton.me/sheet?mode=open-url&token=FJBAMEYS4G&linkId=UZ-RuDTzzXJIdtGqhjykYShcbj_AliQs9CjUjDtQg9B3DIarDUP1CfG-5joGHt4xOBU_qt0Tc3mQTmbcdhBVTA%3D%3D#3QSZdtqKLPr2)
 
@@ -36,8 +38,6 @@ In red, what is cancelled. it do not represent the real schedule. use the tracki
 
 - [instructor guide](https://neueda.sharepoint.com/:w:/r/sites/CourseMaterials/_layouts/15/Doc.aspx?sourcedoc=%7B4D0A26DC-1892-4F2B-8DDC-2307D9D0106D%7D&file=Sprint3-Instructor-Guide.docx&action=default&mobileredirect=true)
 
-## Easy Retro boards
-CANCELED
 
 ## Labs
 - https://github.com/Neueda-Technologies/leap-sprint3
