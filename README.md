@@ -10,11 +10,11 @@
 According to the message you saw on slack from Mairead the feedbacks are great. Thanks for the hard work!
 
 ### Planning
- - We are starting the day with the test. 40mn timed, tests are in confluence and will be accessible for them in the morning at 9:05AM
+ - We are starting the day with the test. 40mn timed, tests are in confluence and will be accessible for them in the morning at 9:00AM
    - The link will be at the end of the sprint 3 section. 
    - No phone, no AI, no call to a friend is allowed during the whole test! Please walk around the tables.
    - They will stay in their room if they are done and please allow them a 5mn break before we start the capstone project. still in their room.
- - 9:50: Starting the capstone project.
+ - 9:45: Starting the capstone project.
    - They will start week 3 sprint following ticket in the jira board.
    - They are free to discuss and manage their team the way they want.
    - They can ask as much question as they want, instructors and SME are here to answer if needed, please note all the questions and answers they may asks in each room so we can all sync with the others rooms during debrief.	
