@@ -1,33 +1,26 @@
 # Chennai playlist
 
-## Today's Menu (Wednesday)
-- Please confirm with everyone they have joined/accepted the Neueda github organisation
-- We need to make them join the jira. Slides are under the welcome section
+## Today's Menu (Thursday)
 
----
-- From feedbacks we will ask you to do some little adjustements for those who are not doing the following:
-  - Some rooms have been reading too much the slides. Don't, try to make it interactive, asking them questions etc.
-  - Dont stay static! Once you run a lab, go from a table to another one, to a trainee to another one and try to have interaction with everyone asking if all is good, if there are any questions etc.
+### Last day folks!
 
-- Get the temperature at the begining of all days. Do they know the topic etc?
-- Anything related to AI, just skip or find an alternative, slides are designed for all location but until now they are not allowed to use AI.
+![](./assets/yay.webp)
 
-In red, what is cancelled. it do not represent the real schedule. use the tracking one to see modules that you are teaching.
-![sprint 3](./assets/sprint3.png)
+
+According to the message you saw on slack from Mairead the feedbacks are great. Thanks for the hard work!
 
 ### Planning
- - 9 to 9:05. lets have a daily standup. 
- - Talk about the program of the day, interact with them!
- - Double check they all have joined Git.
- - Then make them joining Jira.
- - We finish sprint 3!
- - Any time during the day, you can have a small activity if they are sleepy. Some are collected here: [here](http://slides.tomdev.it) - Activities tab.
- - Day for them is over at 4:30pm
+ - We are starting the day with the test. 40mn timed, tests are in confluence and will be accessible for them in the morning at 9:05AM
+   - The link will be at the end of the sprint 3 section. 
+   - No phone, no AI, no call to a friend is allowed during the whole test! Please walk around the tables.
+   - They will stay in their room if they are done and please allow them a 5mn break before we start the capstone project. still in their room.
+ - 9:50: Starting the capstone project.
+   - They will start week 3 sprint following ticket in the jira board.
+   - They are free to discuss and manage their team the way they want.
+   - They can ask as much question as they want, instructors and SME are here to answer if needed, please note all the questions and answers they may asks in each room so we can all sync with the others rooms during debrief.	
+   - Teams will need to present one by one their project to the room for about 5mn at the end of the day. We do not need to time it (but good to do it just to give them an insight) since it's just an exercices regarding the future formal demonstration they will do with the SME in future weeks.
+   - You will need too validate their model so they are not going in the wrong direction (An ER diagram will be sent to you on slack )
  
- - #### /!\ PLEASE TRACK YOUR PROGRESS [HERE](https://docs.proton.me/sheet?mode=open-url&token=FJBAMEYS4G&linkId=UZ-RuDTzzXJIdtGqhjykYShcbj_AliQs9CjUjDtQg9B3DIarDUP1CfG-5joGHt4xOBU_qt0Tc3mQTmbcdhBVTA%3D%3D#3QSZdtqKLPr2)
-
-- #### Detailed schedule.
-  - Please take this with caution, it really depends on trainees and teaching style it have been generated so please keep it as a hint more than a real thing: [schedule](./resources/planned-time.md)
 
 ## Links & resources
  - [Tracking your progress](https://docs.proton.me/sheet?mode=open-url&token=FJBAMEYS4G&linkId=UZ-RuDTzzXJIdtGqhjykYShcbj_AliQs9CjUjDtQg9B3DIarDUP1CfG-5joGHt4xOBU_qt0Tc3mQTmbcdhBVTA%3D%3D#3QSZdtqKLPr2): Before each session and once its done, update the tracking here and check others instructor progress.
@@ -38,9 +31,6 @@ In red, what is cancelled. it do not represent the real schedule. use the tracki
 
 - [instructor guide](https://neueda.sharepoint.com/:w:/r/sites/CourseMaterials/_layouts/15/Doc.aspx?sourcedoc=%7B4D0A26DC-1892-4F2B-8DDC-2307D9D0106D%7D&file=Sprint3-Instructor-Guide.docx&action=default&mobileredirect=true)
 
-
-## Labs
-- https://github.com/Neueda-Technologies/leap-sprint3
 
 ## Breaks 
 ### Lunch
