@@ -1,29 +1,28 @@
 # Chennai playlist
 
-## Today's Menu (Thursday)
+## Today's Menu (Monday)
 
-### Last day folks!
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBpa2UzazBraTZqNGE4NjBkM2pic2o0MnFtM2N2dDAxNGQ5ajJnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif)
 
-![](./assets/yay.webp)
+> The data track contains longer demos
+
+### Plannings
+
+- Daily stand up as usual - 5 minutes.
+- Then we start sprint 4
+- Thats it!
 
 
-According to the message you saw on slack from Mairead the feedbacks are great. Thanks for the hard work!
+The new AI schedule is [here](./resources/leap-schedules/sprint-04.md). as usual take it with precaution 
 
-### Planning
- - We are starting the day with the test. 40mn timed, tests are in confluence and will be accessible for them in the morning at 9:00AM
-   - The link will be at the end of the sprint 3 section. 
-   - No phone, no AI, no call to a friend is allowed during the whole test! Please walk around the tables.
-   - They will stay in their room if they are done and please allow them a 5mn break before we start the capstone project. still in their room.
- - 9:45: Starting the capstone project [requirements here](./resources/Enterprise_Trading_Platform_Project_India.pdf).
-   - They will start week 3 sprint following ticket in the jira board.
-   - They are free to discuss and manage their team the way they want.
-   - They can ask as much question as they want, instructors and SME are here to answer if needed, please note all the questions and answers they may asks in each room so we can all sync with the others rooms during debrief.	
-   - Teams will need to present one by one their project to the room for about 5mn at the end of the day. We do not need to time it (but good to do it just to give them an insight) since it's just an exercices regarding the future formal demonstration they will do with the SME in future weeks.
-   - You will need too validate their model so they are not going in the wrong direction (An ER diagram will be sent to you on slack )
- 
+### Bug and resolutions
+
+#### Solutions/04-fundamentals-consolidation
+You need to run the 'python' command from /leap-sprint4 folder (because we have a relative path in python file)
+
 
 ## Links & resources
- - [Tracking your progress](https://docs.proton.me/sheet?mode=open-url&token=FJBAMEYS4G&linkId=UZ-RuDTzzXJIdtGqhjykYShcbj_AliQs9CjUjDtQg9B3DIarDUP1CfG-5joGHt4xOBU_qt0Tc3mQTmbcdhBVTA%3D%3D#3QSZdtqKLPr2): Before each session and once its done, update the tracking here and check others instructor progress.
+ - [Tracking your progress](https://drive.proton.me/urls/FY4SA8EE0C#LiD4kjLSCiF0): Before each session and once its done, update the tracking here and check others instructor progress.
  
  - [wheelofnames](https://wheelofnames.com/). Idealy we will run this a few time per week mostly to make them engaged and less sleepy. Small reward for each participants (candy, chocolate, whatever) Here are some [questions you can run](https://slides.tomdev.it/). I will update the quizz very soon but for now, you have an idea of the type of questions. Happy to get any suggestions! 
 
