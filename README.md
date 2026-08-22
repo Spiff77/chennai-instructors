@@ -2,7 +2,7 @@
 
 ## Today's Menu (Monday)
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBpa2UzazBraTZqNGE4NjBkM2pic2o0MnFtM2N2dDAxNGQ5ajJnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif)
+![](./assets/data.webp)
 
 > The data track contains longer demos
 
